@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DC23AE4A-849C-4297-B02A-FBF61ACD2DF2}|Default">
+  <MonoDevelop.Ide.ItemProperties.BattleShipProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleShipProject/Player.cs">
+    <Files>
+      <File FileName="BattleShipProject/Program.cs" Line="22" Column="36" />
+      <File FileName="BattleShipProject/Board.cs" Line="77" Column="10" />
+      <File FileName="BattleShipProject/Square.cs" Line="75" Column="6" />
+      <File FileName="BattleShipProject/Player.cs" Line="31" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleShipProject" expanded="True">
+            <Node name="BattleShipProject" expanded="True">
+              <Node name="Ships" expanded="True" />
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

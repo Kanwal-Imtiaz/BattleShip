@@ -1,0 +1,5 @@
+/Users/KanwalHamza/Projects/BattleShipProject/BattleShipProject/bin/Debug/BattleShipProject.exe
+/Users/KanwalHamza/Projects/BattleShipProject/BattleShipProject/bin/Debug/BattleShipProject.pdb
+/Users/KanwalHamza/Projects/BattleShipProject/BattleShipProject/obj/Debug/BattleShipProject.csprojAssemblyReference.cache
+/Users/KanwalHamza/Projects/BattleShipProject/BattleShipProject/obj/Debug/BattleShipProject.exe
+/Users/KanwalHamza/Projects/BattleShipProject/BattleShipProject/obj/Debug/BattleShipProject.pdb
