@@ -48,15 +48,16 @@ namespace BattleShipProject
         public void OutputBoards(bool hideShips)
         {
             Console.WriteLine("\n");
-            Console.Write(" ** " + Name + " Board ** ");
+            
             if (hideShips)
             {
+                Console.Write("      ** Board ** ");
                 Console.WriteLine("\n");
                 Board.DisplayBoard();
             }
             else
             {
-                Console.WriteLine(" ** With Ships ** ");
+                Console.WriteLine(" ** " + Name + " Board With Ships ** ");
                 Board.DisplayBoardWithShips();
             }
         }
@@ -124,7 +125,7 @@ namespace BattleShipProject
             int col=0;
             bool validInput = true;
             //Get input for attack 
-            Console.WriteLine("Enter X-coordinate between 1-10");
+            Console.WriteLine("Enter X-coordinate for Attack between 1-10");
             string line = Console.ReadLine();
             int valueRow = int.Parse(line);
             if (valueRow> 0 && valueRow <=10)
@@ -137,7 +138,7 @@ namespace BattleShipProject
                 
             }
 
-            Console.WriteLine("Enter Y-coordinate between 1-10");
+            Console.WriteLine("Enter Y-coordinate for Attack between 1-10");
             line = Console.ReadLine();
             int valueCol = int.Parse(line);
             if (valueCol > 0 && valueCol <= 10)
